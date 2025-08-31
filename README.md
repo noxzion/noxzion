@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/noxzion/noxzion/output/snake.svg" alt="Snake animation will be here but it wont working idk why" />
+<h1>Star <a href="https://github.com/noxzion/PyMax"></a> repo!</h1>
 
 ###
