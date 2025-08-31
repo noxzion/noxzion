@@ -50,6 +50,6 @@
 
 ###
 
-<h1>Star <a href="https://github.com/noxzion/PyMax"></a> repo!</h1>
+<h1>Star <a href="https://github.com/noxzion/PyMax">THIS</a> repo!</h1>
 
 ###
