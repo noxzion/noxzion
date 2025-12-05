@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 <p>
-I'm a developer with 1.5 year's of experience in frontend develompent & with a year of experience in backend develompent. Now working on <a href="https://github.com/noxzion/PyMax">PyMax</a> project.
+I'm a developer with 1.5 year's of experience in frontend develompent & with a year of experience in backend develompent. Now working on <a href="https://github.com/KometTeam">Komet</a> project.
 </p>
 
 <h2>My stack</h2>
